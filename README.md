@@ -201,9 +201,9 @@ for i in range(1, n + 1):
 client_socket.send("exit".encode())
 client_socket.close()
 ~~~
-
+## output:
+<img width="1441" height="649" alt="Screenshot 2026-02-12 162117" src="https://github.com/user-attachments/assets/235790de-8f90-47d1-8774-bfb9616dcaad" />
 
 ## Result:
-
 Thus the study on Client Server Chat Applications has been performed
 
