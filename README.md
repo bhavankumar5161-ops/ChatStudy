@@ -1,3 +1,5 @@
+### REGISTER NO:212225240026
+## DATE: 30.1.2026
 # Ex. No:1b 			Study of Client Server Chat Applications
 
 ## Aim: 
@@ -204,7 +206,9 @@ client_socket.close()
 
 ## output:
 
-<img width="1441" height="649" alt="Screenshot 2026-02-12 162117" src="https://github.com/user-attachments/assets/235790de-8f90-47d1-8774-bfb9616dcaad" />
+<img width="1205" height="616" alt="Screenshot 2026-03-17 112116" src="https://github.com/user-attachments/assets/efac6082-6318-4210-b0b7-06f49f588769" />
+
+<img width="1254" height="701" alt="Screenshot 2026-03-17 112133" src="https://github.com/user-attachments/assets/7a4acdb4-7d40-4eb8-a89e-e996143ab674" />
 
 ## Result:
 
